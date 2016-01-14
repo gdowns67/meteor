@@ -1,0 +1,5 @@
+*.TMP
+*.dll
+packages/
+.nuget/
+.meteor/
